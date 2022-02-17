@@ -21,15 +21,25 @@ Welcome to the world of GitHub and coding.
 
 Glossary:
 --> Branch: represents an independent line of development for the user. It is a way of creating a new working directory.
+
 --> Clone: Creates a respository containing the revisions from another different repository.
+
 --> Commit: A operation that sends the latests changes to the source code to the repository, it saves the lastest changes made in a file.
+
 --> Fetch: Downloads new data from a remote repository, but it does not add any new data into the current file worked on.
+
 --> GIT: An application/software used to keep track of changes made in a set of files. Commonly used among programmers and website developers to work collaboratively on a source code on a project's and assignment.
+
 --> GitHub: A web-based version-control and collaboration platform application and software developers use. It makes learning and coding easier by providing web interface to Git and allows for user to program easily.
+
 --> Merge: This is a operation that combines multiple changes in a version of collect files. It is a necessary action to do when files is modified on two independent branches and put together at the end.
+
 --> Merge Conflict: An event that occurs when the Git is not able to automatically resolve the issues in code between commits. Potentially from two different developers, where Git has trouble figuring out which code to keep and to discard.
+
 --> Pull: Downloads new data and directly integrates it into current copy files.
+
 --> Remote: A piece of device given to users which allows users to access to networks and different systems from afar and not the local machine.
+
 --> Repository: A data structure file that stores data into a set of files and sets a historical record of changes since its creation.
 
 
